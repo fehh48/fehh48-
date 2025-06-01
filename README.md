@@ -63,4 +63,4 @@ Atualmente estou aprofundando meus conhecimentos em:
 
 ---
 
-> “Cada commit é um passo rumo ao deploy da sua carreira.” 🚀
+
